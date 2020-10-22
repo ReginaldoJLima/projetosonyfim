@@ -12,7 +12,7 @@
                     <ul>
                         <li><a href="index.php?pg=home">Home</a></li>
 
-                        <li><a href="">Downloads</a></li>
+                       
                     </ul>
                 </div>
                 <div class="col-sm-2">
@@ -28,7 +28,7 @@
                     <ul>
                         <li><a href="">FAQ</a></li>
                         <li><a href="paginas/contatos.php">Telefones</a></li>
-                        <li><a href="">Chatee</a></li>
+                     
                     </ul>
                 </div>
                 <div class="col-sm-3">

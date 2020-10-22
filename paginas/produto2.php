@@ -7,7 +7,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle Fortnite PS4.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle Fortnite PS4</h5>
-                        <p class=" text-white card-text">Cidades abandonadas retomadas pela natureza. Uma população dizimada por uma praga moderna. Os sobreviventes matam uns aos outros por comida, armas e qualquer outra coisa.</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -16,7 +17,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle PS4 Branco.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle PS4 Branco</h5>
-                        <p class=" text-white card-text">Londres está passando por uma crise séria devido à vigilância do estado, exército privado, e crime organizado. Recrute uma resistência capacitada para acabar com os imbecis que estão arruinando</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -25,7 +27,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle PS4.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle PS4</h5>
-                        <p class=" text-white card-text">MELHORE SUAS EXPERIÊNCIAS. INTENSIFIQUE SUAS AVENTURAS. Deixe o PS4 Pro mostrar o caminho. Jogue exclusivos PlayStation numa deslumbrante resolução 4K com detalhes visuais incríveis.</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -36,7 +39,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle PS4 Branco.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle PS4 Branco</h5>
-                        <p class=" text-white card-text">Londres está passando por uma crise séria devido à vigilância do estado, exército privado, e crime organizado. Recrute uma resistência capacitada para acabar com os imbecis que estão arruinando</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -44,7 +48,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle PS4.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle PS4</h5>
-                        <p class=" text-white card-text">MELHORE SUAS EXPERIÊNCIAS. INTENSIFIQUE SUAS AVENTURAS. Deixe o PS4 Pro mostrar o caminho. Jogue exclusivos PlayStation numa deslumbrante resolução 4K com detalhes visuais incríveis.</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -53,7 +58,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle Fortnite PS4.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle Fortnite PS4</h5>
-                        <p class=" text-white card-text">Cidades abandonadas retomadas pela natureza. Uma população dizimada por uma praga moderna. Os sobreviventes matam uns aos outros por comida, armas e qualquer outra coisa.</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -64,7 +70,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle Fortnite PS4.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle Fortnite PS4</h5>
-                        <p class=" text-white card-text">Cidades abandonadas retomadas pela natureza. Uma população dizimada por uma praga moderna. Os sobreviventes matam uns aos outros por comida, armas e qualquer outra coisa.</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -74,7 +81,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle PS4 Branco.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle PS4 Branco</h5>
-                        <p class=" text-white card-text">Londres está passando por uma crise séria devido à vigilância do estado, exército privado, e crime organizado. Recrute uma resistência capacitada para acabar com os imbecis que estão arruinando</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
@@ -83,7 +91,8 @@
                     <img src="public/bootstrap/img/IMG teste redimencionada/Controle PS4.jpg" class="card-img-top" alt="...">
                     <div class="card-body ">
                         <h5 class=" text-white ">Controle PS4</h5>
-                        <p class=" text-white card-text">MELHORE SUAS EXPERIÊNCIAS. INTENSIFIQUE SUAS AVENTURAS. Deixe o PS4 Pro mostrar o caminho. Jogue exclusivos PlayStation numa deslumbrante resolução 4K com detalhes visuais incríveis.</p>
+                        <p class=" text-white card-text">Descubra uma profunda e imersiva experiência de jogo com o inovador DualSense
+Resposta Tátil: Sinta em suas mãos a resposta tátil em seus jogos com atuadores duplos, isso substitui os barulhentos motores tradicionais.</p>
                         <a type="button" data-toggle="modal" data-target="#ExemploModalCentralizado" class="luizzz btn btn-primary  text-light ">Comprar</a>
                     </div>
                 </div>
