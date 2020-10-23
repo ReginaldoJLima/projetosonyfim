@@ -14,7 +14,7 @@
 <body>
 
     <div class="container">
-
+<form >
         <h2>Entre em Contato</h2>
         <div class="row100">
             <div class="col">
@@ -29,7 +29,7 @@
         <div class="row100">
             <div class="col">
                 <div class="input-group">
-                    <input type="text" name="" required="required">
+                    <input type="email" id="exampleInputEmail" type="email" name="" required="required">
                     <span class="text text-light  ">E-mail </span>
                     <span class="line"></span>
                 </div>
@@ -52,11 +52,12 @@
             </div>
             <div class="row100">
                 <div class="col">
-                    <input type="submit" value="Enviar">
+                    <input type="submit"  class="btn" value="Enviar">
+                    <a href="index.php"  class="btn  b" >Voltar</a>
                 </div>
             </div>
         </div>
-
+</form>
 </body>
 
 </html>

@@ -18,7 +18,7 @@
                 <div class="col-sm-2">
                     <h5>Sobre-nós</h5>
                     <ul>
-                        <li><a href="index.php?pg=home">Informações da Empresa</a></li>
+                        <li><a href="index.php?pg=sobre">Informações da Empresa</a></li>
                         <li><a href="icontato.php?pg=contato">Contato</a></li>
 
                     </ul>
@@ -27,7 +27,7 @@
                     <h5>Suporte</h5>
                     <ul>
                         <li><a href="">FAQ</a></li>
-                        <li><a href="paginas/contatos.php">Telefones</a></li>
+                        <li><a href="icontato.php?pg=contato">Telefones</a></li>
                      
                     </ul>
                 </div>
